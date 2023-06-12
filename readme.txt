@@ -15,3 +15,9 @@ To run this code on windows, you need to change all forward slashes to back slas
 Note 3:
 Considering the assignments criteria, there need to be at least two hypothesis.
 Some of visualizations contains these hypothesises in their analysis section. Also in some parts, the hypothesis is directly mentioned. 
+
+
+
+Note 4:
+This code contains a Dynamic Animated Graph. However, as the report is in PDF format, this graph is static. Therefore, a copy of this plot is put in the files. The name of this file is animation.gif.
+Also, if you open R Project.ipynb file, you can see this dynamic representation.
